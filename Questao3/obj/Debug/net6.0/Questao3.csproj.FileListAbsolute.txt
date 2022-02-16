@@ -1,0 +1,15 @@
+C:\Users\ianna\Desktop\Desafio_Capgemini\Questao3\obj\Debug\net6.0\Questao3.csproj.AssemblyReference.cache
+C:\Users\ianna\Desktop\Desafio_Capgemini\Questao3\obj\Debug\net6.0\Questao3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianna\Desktop\Desafio_Capgemini\Questao3\obj\Debug\net6.0\Questao3.AssemblyInfoInputs.cache
+C:\Users\ianna\Desktop\Desafio_Capgemini\Questao3\obj\Debug\net6.0\Questao3.AssemblyInfo.cs
+C:\Users\ianna\Desktop\Desafio_Capgemini\Questao3\obj\Debug\net6.0\Questao3.csproj.CoreCompileInputs.cache
+C:\Users\ianna\Desktop\Desafio_Capgemini\Questao3\bin\Debug\net6.0\Questao3.exe
+C:\Users\ianna\Desktop\Desafio_Capgemini\Questao3\bin\Debug\net6.0\Questao3.deps.json
+C:\Users\ianna\Desktop\Desafio_Capgemini\Questao3\bin\Debug\net6.0\Questao3.runtimeconfig.json
+C:\Users\ianna\Desktop\Desafio_Capgemini\Questao3\bin\Debug\net6.0\Questao3.dll
+C:\Users\ianna\Desktop\Desafio_Capgemini\Questao3\bin\Debug\net6.0\ref\Questao3.dll
+C:\Users\ianna\Desktop\Desafio_Capgemini\Questao3\bin\Debug\net6.0\Questao3.pdb
+C:\Users\ianna\Desktop\Desafio_Capgemini\Questao3\obj\Debug\net6.0\Questao3.dll
+C:\Users\ianna\Desktop\Desafio_Capgemini\Questao3\obj\Debug\net6.0\ref\Questao3.dll
+C:\Users\ianna\Desktop\Desafio_Capgemini\Questao3\obj\Debug\net6.0\Questao3.pdb
+C:\Users\ianna\Desktop\Desafio_Capgemini\Questao3\obj\Debug\net6.0\Questao3.genruntimeconfig.cache
